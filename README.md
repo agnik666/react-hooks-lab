@@ -1,4 +1,4 @@
-# React Hooks Foundry
+# React Hooks Lab
 
 A curated collection of reusable React hooks built with plain JavaScript.
 
